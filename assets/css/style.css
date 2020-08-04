@@ -18,7 +18,7 @@
 }
 
 .bg-color-contact{
-    background-color: #fff;
+    background-color: #3498db;
 }
 .ui-menu-color-home {
     background-color: #e67e22;
@@ -341,6 +341,7 @@ personal-info-item .value p {
     padding-top: 10px;
     margin: 0 auto;
     max-width: 70%;
+    background-color:
 }
 
 button[type="submit"] {
